@@ -1,8 +1,7 @@
-pytorch==1.10.0
+torch==1.10.0 -f https://download.pytorch.org/whl/torch_stable.html
 pandas==1.2.5
 numpy==1.19.5
 matplotlib==3.3.4
 scikit-learn==1.0.1
 rouge-score==0.0.4
 nltk==3.6.2
-
